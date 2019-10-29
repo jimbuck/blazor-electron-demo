@@ -4,7 +4,7 @@
     <RootNamespace>blazor_electron_demo</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="ElectronNET.API" Version="5.22.14" />
+    <PackageReference Include="ElectronNET.API" Version="5.30.1" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="electron.manifest.json">
